@@ -1,0 +1,24 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template/scrolling-nav)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 100px 0 80px;
+}
+section {
+  padding: 20px 0;
+}
+.custom-card{
+
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  border-radius:40px 40px 20px 20px;
+  font-family: arial;
+
+}
+.custom-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.507);
+}
+.custom-img{
+  border-radius:18px 18px 0 0; 
+}
