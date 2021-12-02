@@ -1,6 +1,3 @@
 # dating-web-app
 
-[http://dating9324.epizy.com][website]
-
-
-[website]: http://dating9324.epizy.com
+A simple dating web app with both Laravel and Bootstrap using the Latest version.
